@@ -15,6 +15,8 @@ Um pouco sobre mim:
   <a href="https://www.w3schools.com/js/"><img height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
   <a href="https://getbootstrap.com/"><img height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a>
 </div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=2000&pause=1000&color=F7F7F7&width=435&lines=Python;Javascript;Lua)](https://git.io/typing-svg)
 <div>
   <p>Social</p>
   <a href="https://www.youtube.com/@sl.5115"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
